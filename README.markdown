@@ -4,7 +4,7 @@
 - Author: Carson Sasser (sassercw@cox.net)
 - Website: http://carsonsasser.com
 - Build Date: 24 April 2010
-- Requirements: only tested on 2.0.8RC1
+- Requirements: only tested on Symphony CMS 2.0.8RC1
 
 
 ## Installation
